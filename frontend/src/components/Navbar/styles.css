@@ -1,0 +1,12 @@
+#main .nav {
+    display: flex;
+    align-items: center;
+    background-color: var(--color-bg);
+    padding: .5rem;
+}
+
+#main .nav .logo {
+    flex: 1;
+    font-size: 1.4rem;
+    margin: 0;
+}

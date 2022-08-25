@@ -1,0 +1,11 @@
+#main .search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-bg);
+    max-width: 480px;
+    margin: 2rem auto;
+    gap: 1rem;
+    padding: 1rem .3rem;
+    border-radius: 10px;
+}

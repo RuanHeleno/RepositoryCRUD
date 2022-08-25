@@ -1,0 +1,17 @@
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 0 2rem;
+}
+
+#main input {
+    width: 100%;
+    margin-left: .5rem;
+    cursor: pointer;
+    padding: .3rem;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
